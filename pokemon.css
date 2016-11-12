@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "pokemon-regular";
+  src: url("pkmn_r.ttf");
+}
+@font-face {
+  font-family: "pokemon-strict";
+  src: url("pkmn_s.ttf");
+}
+@font-face {
+  font-family: "pokemon-western";
+  src: url("pkmn_w.ttf");
+}
